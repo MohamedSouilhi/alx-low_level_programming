@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
 * main - adds two numbers
-* Return: Always 0 (Success)
-**/
+*/
 int main(void)
 {
 int n;
