@@ -1,7 +1,4 @@
 #include <stdio.h>
-/**
-* main - adds two numbers
-*/
 int main(void)
 {
 int n;
